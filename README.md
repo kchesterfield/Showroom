@@ -10,7 +10,7 @@ A simple checker that validates the parentheses of a LISP code.  Takes in a stri
 
 Run the project from Visual Studio and then navigate to the swagger page. Swagger pages can be accessed via `/swagger`
 
-Once in Swagger, open one of the following APIs. Select `Try it out` which unlock the UI elements for editing.
+Once in Swagger, open one of the following APIs. Select `Try it out` which will unlock the UI elements for editing.
 
 In the fields you may enter either a valid JSON string or a Base64 encoded string for testing. Selecting `Execute` will create the API call and the LISP code will be validated.
 
