@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Showroom.LispValidator", "S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Showroom.Shared", "Showroom.Shared\Showroom.Shared.csproj", "{83C5ADDE-1E95-41A8-9B20-6AA71EEBDF50}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Showroom.User", "Showroom.User\Showroom.User.csproj", "{7D1C8828-543D-4998-A02F-F562AF75B471}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Showroom.UserSignup", "Showroom.UserSignup\Showroom.UserSignup.csproj", "{7D1C8828-543D-4998-A02F-F562AF75B471}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Showroom.Enrollment", "Showroom.Enrollment\Showroom.Enrollment.csproj", "{7AA06A4D-9234-4021-A108-B0D82D278BB5}"
 EndProject
